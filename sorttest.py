@@ -17,6 +17,11 @@ http://opensource.org/licenses/MIT
 import random
 import sys
 
+# This is the function
+# that implements Bubble Sort
+# As we know, this is the most efficient sorting algorithm
+# known to man
+
 def bubble_sort(items):
     """ Implementation of bubble sort """
     for i in range(len(items)):

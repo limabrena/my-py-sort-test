@@ -5,6 +5,8 @@
 @file
 Self-contained Python program for benchmarking sorting algorithms.
 
+SOMETIMES IT WORKS
+
 Original code for the sorting functions available at:
 
 http://danishmujeeb.com/blog/2014/01/basic-sorting-algorithms-implemented-in-python/

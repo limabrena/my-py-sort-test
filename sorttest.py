@@ -16,6 +16,10 @@ Copyright for the "main" code: Nuno Fachada, 2017, MIT License
 http://opensource.org/licenses/MIT
 """
 
+# No
+# More
+# Code
+
 import random
 import sys
 
